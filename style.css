@@ -1,0 +1,100 @@
+/*---- structure ---*/
+
+body {
+  min-width: 300px;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+
+header {
+  background-color: olive;
+  float: left;
+  margin: -1% 0 30px 0;
+  padding: 5px 0 0 0;
+  width: 100%;
+} 
+
+main {
+  padding: 20px;
+}
+
+
+footer {
+  height: 85px;
+  background-color: olive;
+  padding: 30px;
+}
+
+.container {
+  width: 600px;
+  margin: auto;
+}
+
+
+
+/*--- header ---*/
+
+
+
+header h1, h1 {
+  color: #F5D0C5;
+  font-size: 40px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align: center;  
+}
+
+
+h2 {
+  color: #7293A0;
+  font-size: 30px;
+  font-family: Cambria;
+  text-align: center;
+}
+
+h3 {
+  color: #F5D0C5;
+  font-size: 20px;
+  font-family: Cambria;
+  text-align: center;
+}
+
+main p {
+  color: black;
+  font-size: 12px;
+  font-family: Cambria;
+  text-align: justified;
+}
+
+
+ul, ol {
+  color: black;
+  font-size: 12px;
+  font-family: Cambria;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  list-style-position: inside;
+}
+
+iframe {
+  
+}
+
+
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+a:link {color: #815E5B;}
+a:visited {color: #7293A0;}
+a:hover {color: #F5D0C5;}
+a:active {color: #A5C882;}
