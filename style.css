@@ -24,7 +24,6 @@ main {
 footer {
   height: 85px;
   background-color: olive;
-  padding: 30px;
 }
 
 .container {
@@ -81,11 +80,11 @@ li {
   list-style-position: inside;
 }
 
-iframe {
-  
+img {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%; 
 }
-
-
 
 .center {
   display: block;
