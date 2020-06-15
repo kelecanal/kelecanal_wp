@@ -81,8 +81,6 @@ li {
 }
 
 img {
-    width: auto;
-    height: auto;
     max-height: 750px;
     max-width: 300px; 
 }
